@@ -1,1 +1,1 @@
-# vaniila-games
+# Vanilla Games
